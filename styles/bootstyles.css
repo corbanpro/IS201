@@ -1,0 +1,53 @@
+/*formatting for the tableu page*/
+.header {
+    margin: 5px;
+    height: 70px;
+    border: solid 3px #000000;
+}
+
+.mainbody {
+    top: 86px;
+    bottom: 71px;
+    left: 5px;
+    right: 5px;
+    border: 3px solid #000000;
+    margin: 5px;
+    padding: 5px;
+}
+
+.footer {
+    bottom: 5px;
+    left: 5px;
+    right: 5px;
+    height: 75px;
+    border: solid 3px #000000;
+    margin: 5px;
+}
+
+.facebooklink {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.caption {
+    font: 18px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+body {
+    background-color: #000000;
+    background-image: url("../images/backgroundImage.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.black {
+    color: black;
+}
+
+.bold {
+    font-weight: bold;
+}
